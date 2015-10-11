@@ -1,0 +1,46 @@
+Mirëdita,Albanian
+Ahalan,Arabic
+Parev,Armenian
+Zdrasti,Bulgarian
+Nei Ho,Chinese
+Ahoj,Czech
+Goddag,Danish
+Hallo,Dutch
+Hello,English
+G'day,Australian
+Howdy friend,Canadian
+Saluton,Esperanto
+Hei,Finnish
+Bonjour,French
+Guten Tag,German
+Gia'sou,Greek
+Aloha,Hawaiian
+Shalom,Hebrew
+Namaste,Indian
+Jó napot,Hungarian
+Góðan daginn,Icelandic
+Halo,Indonesian
+Aksunai,Inuit
+Qanuipit,Inuit
+Dia dhuit,Irish
+Ciao,Italian
+Kon-nichiwa,Japanese
+An-nyong Ha-se-yo,Korean
+Salvëte,Roman
+Ni hao,Chinese
+Hallo,Norwegian
+Dzien' dobry,Polish
+Olá,Portuguese
+Bunã ziua,Romanian
+Zdrastvuyte,Russian
+Privet,Russian
+Hola,Spanish
+Jambo,Swahili
+Hej,Swedish
+Sa-wat-dee,Thai
+Merhaba,Turkish
+Vitayu,Ukrainian
+Xin chào,Vietnamese
+Hylo; Sut Mae,Welsh
+Sholem Aleychem,Yiddish
+Sawubona,Zulu

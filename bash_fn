@@ -1,0 +1,13 @@
+DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
+
+function greeting() {
+    echo ''
+    echo ''
+    file=`ls --color=none --indicator-style=none ${DIR}/characters |sort -R  |shuf -n 1`
+    name=`cat ${DIR}/names.txt | grep "^${file:0:1}"| shuf -n 1`
+    cat ${DIR}/characters/${file}
+    echo ''
+    echo ''
+    echo "\"${name^} ${file^}\" says \"Hello, $USER!\" :)"
+    echo ''
+}
