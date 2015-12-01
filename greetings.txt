@@ -1,46 +1,50 @@
-Mirëdita,Albanian
 Ahalan,Arabic
-Parev,Armenian
-Zdrasti,Bulgarian
-Nei Ho,Chinese
 Ahoj,Czech
-Goddag,Danish
-Hallo,Dutch
-Hello,English
-G'day,Australian
-Howdy friend,Canadian
-Saluton,Esperanto
-Hei,Finnish
-Bonjour,French
-Guten Tag,German
-Gia'sou,Greek
-Aloha,Hawaiian
-Shalom,Hebrew
-Namaste,Indian
-Jó napot,Hungarian
-Góðan daginn,Icelandic
-Halo,Indonesian
 Aksunai,Inuit
-Qanuipit,Inuit
-Dia dhuit,Irish
-Ciao,Italian
-Kon-nichiwa,Japanese
+Aloha,Hawaiian
 An-nyong Ha-se-yo,Korean
-Salvëte,Roman
-Ni hao,Chinese
-Hallo,Norwegian
-Dzien' dobry,Polish
-Olá,Portuguese
+As-salám aláykum,Oman
+Bonjour,French
 Bunã ziua,Romanian
-Zdrastvuyte,Russian
-Privet,Russian
-Hola,Spanish
-Jambo,Swahili
+Ciao,Italian
+Dia dhuit,Irish
+Dzien' dobry,Polish
+G'day,Australian
+Gia'sou,Greek
+Goddag,Danish
+Guten Tag,German
+Góðan daginn,Icelandic
+Hallo,Dutch
+Hallo,Norwegian
+Halo,Indonesian
+Hei,Finnish
 Hej,Swedish
-Sa-wat-dee,Thai
+Hello,English
+Heus!,Latin
+Hola,Spanish
+Howdy friend,Canadian
+Hylo; Sut Mae,Welsh
+Jambo,Swahili
+Jó napot,Hungarian
+Kon-nichiwa,Japanese
 Merhaba,Turkish
+Mirëdita,Albanian
+Namaste,Indian
+Nei Ho,Chinese
+Ni hao,Chinese
+Olá,Portuguese
+Parev,Armenian
+Privet,Russian
+Qanuipit,Inuit
+Que onda,Mexican
+Sa-wat-dee,Thai
+Saluton,Esperanto
+Salvëte,Roman
+Sawubona,Zulu
+Shalom,Hebrew
+Sholem Aleychem,Yiddish
+Ssalamū 'lekum,Moroccan
 Vitayu,Ukrainian
 Xin chào,Vietnamese
-Hylo; Sut Mae,Welsh
-Sholem Aleychem,Yiddish
-Sawubona,Zulu
+Zdrasti,Bulgarian
+Zdrastvuyte,Russian

@@ -18,14 +18,19 @@ function greeting() {
         LS='ls --color=none --indicator-style=none'
     fi
 
-    echo ''
-    echo ''
-    file=`${LS} ${DIR}/characters | ${SHUF} -n 1`
+    nationalGreeting=`${SHUF} -n 1 ${DIR}/greetings.txt`
+    helloVal=`echo ${nationalGreeting} | cut -d "," -f1
+    nationality=`echo ${nationalGreeting} | cut -d "," -f2
+    file=`${LS} ${DIR}/characters | grep -i "^${nationality:0:1}" | ${SHUF} -n 1`
     name=`cat ${DIR}/names.txt | grep "^${file:0:1}"| ${SHUF} -n 1`
+    userFullName=`finger $USER | head -n1 | cut -d ":" -f3 | xargs`
+
+    echo ''
+    echo ''
     cat ${DIR}/characters/${file}
     echo ''
     echo ''
-    echo "\"`uppercase_first ${name}` `uppercase_first ${file}`\" says \"Hello, $USER!\" :)"
+    echo "\"`uppercase_first ${name}` `uppercase_first ${file}`\" says \"${helloVal}, ${userFullName}!\" :)"
     echo ''
 
 }
