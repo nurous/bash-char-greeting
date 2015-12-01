@@ -40,7 +40,7 @@ function greeting() {
 
 `cat ${DIR}/characters/${character}`
 
-"`uppercase_first ${name}` `uppercase_first ${character}`" says "${helloVal}, ${userFullName}!" :)
+`uppercase_first ${name}` the ${nationality} `uppercase_first ${character}` says "${helloVal}, ${userFullName}!" :)
 
 GREET_MSG
 }
