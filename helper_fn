@@ -1,0 +1,22 @@
+
+function uppercase_first() {
+  echo "`echo ${1:0:1} | tr  '[a-z]' '[A-Z]'`${1:1}"
+}
+
+function define_shuf() {
+  export SHUF=`which shuf gshuf`
+  if [ -z "${SHUF}" ]; then
+      echo 'command "shuf"' not found'
+      echo 'try installing coreutils `brew install coreutils`''
+      return 1
+  fi
+}
+
+function define_ls() {
+  if [ `uname` == 'Darwin' ]; then
+      LS='ls -1'
+  else
+      LS='ls --color=none --indicator-style=none'
+  fi
+  export LS
+}
